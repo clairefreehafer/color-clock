@@ -1,3 +1,5 @@
 # Color Clock
 
-A digital clock made in Processing that changes color based on the time. The time is translated into a hex code. (ex. 20:04:32 => #200432)
+A clock made in Processing that changes color based on the time. The time is translated into a hex code. (ex. 14:22:12 => #14:22:12)
+
+![example image](img.png)
